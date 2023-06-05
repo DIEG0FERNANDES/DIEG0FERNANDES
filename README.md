@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-I'm a game development enthusiast and a future technologist in Internet Systems at the Federal Institute of Education, Science, and Technology of Mato Grosso do Sul (known as IFMS), Aquidauana campus.
+I am a Brazilian guy who is passionate about game development. I am currently studying Internet Systems at the Federal Institute of Education, Science, and Technology of Mato Grosso do Sul (known as IFMS), specifically at the Aquidauana campus. I am excited about becoming a future technologist in this field.
 
 My main focus is on becoming a game developer and ensuring that my repositories are organized and understandable, both for myself and for those who view them. These repositories are created during my classes and serve to demonstrate my skills and how I can contribute to anyone interested in exploring technology, even in the most challenging and beginner-friendly way.
 
