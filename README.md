@@ -7,7 +7,7 @@ My main focus is on becoming a game developer and ensuring that my repositories 
 If you have any proposals, invitations, doubts, or distress signals, feel free to contact me using the following information:
 
 <p>
-  <a target="_blank" href="www.linkedin.com/in/diego-dos-santos-fernandes-1a4250247">
+  <a target="_blank" href="https://www.linkedin.com/in/diego-dos-santos-fernandes-1a4250247">
     <img alt="LinkedIn: matheus-comparotto-1a7895113" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- <a target="_blank" href="https://t.me/mdccg">
