@@ -6,7 +6,20 @@ My main focus is on becoming a game developer and ensuring that my repositories 
 
 If you have any proposals, invitations, doubts, or distress signals, feel free to contact me using the following information:
 
-
+<p>
+  <a target="_blank" href="www.linkedin.com/in/diego-dos-santos-fernandes-1a4250247">
+    <img alt="LinkedIn: matheus-comparotto-1a7895113" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a target="_blank" href="https://t.me/mdccg">
+    <img alt="Telegram: mdccg" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a> -->
+  <a target="_blank" href="mailto:diegodossantosfernandess@gmail.com">
+    <img alt="E-mail: comparotto.js@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://youtu.be/wgC4M2epd6M">
+    <img alt="Actually I don't use Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **DIEG0FERNANDES/DIEG0FERNANDES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
